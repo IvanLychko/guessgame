@@ -1,0 +1,31 @@
+body.HowToPlay {
+    background-image: url(../../assets/images/bg1.jpg);
+}
+
+@media (max-width: 1023px) {
+    body.HowToPlay {
+        background-image: url(../../assets/images/bg1_1080х1080.jpg);
+    }
+
+    .b-page.HowToPlay {
+        background-color: rgba(0, 0, 0, .6);
+    }
+}
+
+@media (max-width: 767px) {
+    body.HowToPlay {
+        background-image: url(../../assets/images/bg1_768х768.jpg);
+    }
+}
+
+.how-to-pay-text p {
+    max-width: 800px;
+    margin-top: 50px;
+    font-size: 21px;
+}
+.how-to-pay-text{
+    margin-bottom: 115px;
+}
+.how-to-pay-text p {
+    color: white;
+}

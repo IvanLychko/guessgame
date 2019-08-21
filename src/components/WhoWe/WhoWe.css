@@ -1,0 +1,19 @@
+body.WhoWe {
+    background-image: url(../../assets/images/bg1.jpg);
+}
+
+@media (max-width: 1023px) {
+    body.WhoWe {
+        background-image: url(../../assets/images/bg1_1080х1080.jpg);
+    }
+
+    .b-page.WhoWe {
+        background-color: rgba(0, 0, 0, .6);
+    }
+}
+
+@media (max-width: 767px) {
+    body.WhoWe {
+        background-image: url(../../assets/images/bg1_768х768.jpg);
+    }
+}

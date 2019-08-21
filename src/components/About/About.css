@@ -1,0 +1,27 @@
+body.About .b-features{
+    text-align: center;
+}
+body.About {
+    background-image: url(../../assets/images/aboutBG.jpg);
+}
+.about-blocks > div p {
+    font-size: 20px;
+    color: white;
+}
+.about-blocks > div img {
+    margin: 0 auto;
+}
+.about-blocks > div {
+    display: inline-block;
+    width: 300px;
+    margin: 15px auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.about-blocks {
+    margin: 50px auto;
+    max-width: 980px;
+}
+body.About .about-start-game {
+    margin-bottom: 85px;
+}
