@@ -1,4 +1,4 @@
 export default {
-    network: '1',
-    contract: "0x2c194e75ae3af869982d695a6eb332199bf1bdb2"
+    network: '4',
+    contract: "0x26Fe3E1826Bb97161F202259b70b99C64A4a6eA8"
 }
